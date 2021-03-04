@@ -3,10 +3,14 @@ Lyncanthropia is a first-person stealth horror game where the player is trapped 
 
 ## Team Members
 Michael Kwak (ACM)
+
 Jeffrey Yu (ICS)
+
 Jin Yan Wu (ICS)
 
 ## Game Concept
+### Synopsis
+You have to escape from the werewolf who will immediately chase after you after it sees you.
 
 ### Storyboard
 
