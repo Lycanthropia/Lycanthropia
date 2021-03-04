@@ -1,5 +1,10 @@
 ## Lyncanthropia
+Lyncanthropia is a first-person stealth horror game where the player is trapped in a forest and has to escape from the werewolf.
 
+## Team Members
+Michael Kwak
+Jeffrey Yu
+Jin Yan Wu
 
 ### Markdown
 
