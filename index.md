@@ -14,7 +14,7 @@ Jin Yan Wu (ICS)
 
 ## Game Concept
 ### Synopsis
-The game takes place in a forest in the nighttime. In the forest lurks a werewolf who will immediately chase after you once it locks sight on you. You must avoid this werewolf at all cost, as you will die once it captures you. Your goal is to navigate around the forest, searching for useful items to lure the werewolf's attention away from you. 
+The game takes place in a forest in the nighttime. In the forest lurks a werewolf who will immediately chase after you once it locks sight on you. You must avoid this werewolf at all cost, as you will die once it captures you. You have three lives, and once those three lives are up, it is game over. Your goal is to navigate around the forest, searching for items to your advantage, like diverting the werewolf's attention away from you or powerups to boost your running speed. Beware the time, as a full moon will activate the werewolf's heightened senses, giving him the ability to track you down instantaneously.
 
 ### Storyboard
 
