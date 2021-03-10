@@ -4,6 +4,8 @@ Lyncanthropia is a first-person stealth horror game.
 ## Team Members
 Michael Kwak (ACM)
 
+<img src="https://user-images.githubusercontent.com/47268740/110592568-8aa4f300-811e-11eb-94ac-2214a7a03e14.png" width="25%" height="25%">
+
 Jeffrey Yu (ICS)
 
 <img src="https://user-images.githubusercontent.com/47268740/110231821-3f8ca500-7ebe-11eb-971c-f17975e3d4a7.png" width="25%" height="25%"/>
