@@ -1,5 +1,5 @@
-## Lyncanthropia
-Lyncanthropia is a first-person stealth horror game.
+## Lyanthropia
+Lycanthropia is a first-person stealth horror game.
 
 ## Team Members
 Michael Kwak (ACM)
