@@ -19,9 +19,17 @@ Jin Yan Wu (ICS)
 The game takes place in a forest in the nighttime. Your character is a hunter and a skilled tracker who was out in the forest and attacked by a never before seen creature. Your character loses his gun and needs to escape. However, your character's tracking and hunting knowledge gives him the ability to be aware of his scent and mask it temporarily using things like mud and water. He is able to go into a tracker mode that allows him to see his scent trail and it's strength. The more he exerts himself, the stronger his scent will become until the wolf will be onto him immediately, so before his scent becomes to strong, he needs to find a way to dampen his scent, which will wear off eventually. He is also skilled at hiding, but it will only work if his scent is weak enough. Your character has three lives, and once those three lives are up, it is game over. Your goal is to navigate around the forest, searching for items to your advantage, like diverting the creatures's attention away from you or powerups to boost your running speed. Beware the time, as a full moon will activate the creature's heightened senses, giving him the ability to track you down instantaneously.
 
 ### Storyboard
+![alt text](Images/Lycanthropia_Concept_1.jpg)
+
+![alt text](Images/Lycanthropia_Concept_2.jpg)
+
+The above are the first storyboards made for the game. We thought of many mechanics and features that could be added and how it might have been seen in game.
 
 ### Gameplay
 
 ## Trello Board
 
+### Half way mark 
+Below is what our trello board looked like during the half way mark of development towards the semester. 
+![alt text](Images/TrelloBoardHalfWay.png)
 ## Gallery
